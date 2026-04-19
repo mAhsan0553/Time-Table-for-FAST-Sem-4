@@ -1,2 +1,6 @@
 /venv
 /__pycache__
+.streamlit/secrets.toml
+*service-account*.json
+time-table-project-*.json
+boxwood-spirit-453011-v1-c5fed3891f42.json
